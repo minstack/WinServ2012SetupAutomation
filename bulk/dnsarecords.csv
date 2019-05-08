@@ -1,0 +1,9 @@
+Name,ZoneName,IP
+miss-gw,smcompany.ca,192.168.0.1
+miss-dc01,smcompany.ca,192.168.0.2
+miss-dc02,smcompany.ca,192.168.0.3
+miss-dc03,smcompany.ca,192.168.0.4
+miss-hv001,smcompany.ca,192.168.0.10
+miss-hv002,smcompany.ca,192.168.0.11
+miss-hv003,smcompany.ca,192.168.0.12
+www-miss,smcompany.ca,miss-dc01.smcompany.ca

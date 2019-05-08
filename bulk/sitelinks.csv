@@ -1,0 +1,4 @@
+LinkName,Sites,Cost,ReplicationFreq,Type
+Mississauga-to-Vancouver,"Mississauga,Vancouver",40,15
+Vancouver-to-Montreal,"Vancouver,Montreal",100,15
+Montreal-to-Mississauga,"Montreal,Mississauga",40,15
